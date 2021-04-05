@@ -2,4 +2,4 @@
 
 ## designs made
 
-<img src="./designs/splashScreen.png" height="600" width="290"></img>
+<img src=".Designs/designs/splashScreen.png" height="600" width="290"></img>
